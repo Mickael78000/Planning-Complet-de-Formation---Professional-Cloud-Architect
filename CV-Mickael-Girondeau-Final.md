@@ -26,7 +26,7 @@ Expert in designing scalable, secure Web3 solutions with emphasis on smart contr
 ### 💻 Programming & Frameworks
 - **Languages:** Rust, JavaScript/TypeScript, Solidity, C/C++
 - **Frontend:** React, Next.js, Vue.js, responsive Web3 UI/UX
-- **Backend:** Node.js, REST APIs, GraphQL, WebSocket
+- **Backend:** Node.js, REST APIs, MySQL, WebSocket
 
 ### 🔐 Infrastructure & Security
 - **DevOps:** Docker, Ubuntu server cluster, CI/CD pipelines, VPN setup
@@ -35,7 +35,6 @@ Expert in designing scalable, secure Web3 solutions with emphasis on smart contr
 
 ### ⚡ Blockchain Concepts
 - **Consensus:** Proof of Work (PoW), Proof of Stake (PoS), Nominated Proof-of-Stake (NPoS)
-- **DeFi Mechanisms:** Automated Market Makers (AMMs), liquidity pools, yield farming
 - **Tokenomics:** Vesting schedules, governance, token distribution models
 - **Layer 2 Scaling:** Rollups, zero-knowledge proof architectures
 
